@@ -2,6 +2,16 @@
 
 Let's begin the easiest level.
 
-Start by running the ls command, which allows you to list the files. After that, read the contents of the WELCOME.md file using the cat command (cat README.md).
+- Start by running the ls command, which allows you to list the files. After that, read the contents of the WELCOME.md file using the cat command (cat README.md).
 
+- By reading the contents of the README.md file, you will get a clue that will help you find the different passwords.
 
+- Then run the pwd command which will let you know which directory you are in.
+
+- Exit to the directory you are in using the cd command followed by a space and then a colon (cd ..).
+
+- Run this command twice in a row. Then, use the pwd command to find out which directory you are in.
+
+- Then run the ls command to list the files and folders.
+
+- Enter the level folder using the cd command (cd level).
