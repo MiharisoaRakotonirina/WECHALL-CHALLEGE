@@ -4,4 +4,6 @@ All of these challenges will help you get familiar with the different Linux comm
 
 First of all, you need to create an account in the wechall website.
 
+To create your account, you will need a username, a valid email address, and a password to log in.
+
 
