@@ -23,3 +23,6 @@ Let's begin the easiest level.
 - List all files in the 00_welcome folder using the ls command.
 
 - There is a file named README.md in the 00_welcome directory. Read the contents of the README file using the cat command (cat README.md).
+
+- The level 0 solution is very self-explanatory, as are all the other levels.
+
