@@ -12,4 +12,6 @@ You need to enter your password in the "Set your SSH account" section, insert yo
 
 Now, you're able able to begin the challenges.
 
+Before starting the various challenges in this site, you need to know some basic LINUX commands. 
+
 
